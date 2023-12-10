@@ -1,0 +1,1 @@
+cmd_/home/aic/workspace/8818/tenda/aic8800fdrvpackage/AIC8800/drivers/aic8800/aic_load_fw/modules.order := {   echo /home/aic/workspace/8818/tenda/aic8800fdrvpackage/AIC8800/drivers/aic8800/aic_load_fw/aic_load_fw.ko; :; } | awk '!x[$$0]++' - > /home/aic/workspace/8818/tenda/aic8800fdrvpackage/AIC8800/drivers/aic8800/aic_load_fw/modules.order
